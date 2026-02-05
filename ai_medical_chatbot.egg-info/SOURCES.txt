@@ -1,5 +1,9 @@
-pyproject.toml
+README.md
 setup.py
+AI_Medical_Chatbot.egg-info/PKG-INFO
+AI_Medical_Chatbot.egg-info/SOURCES.txt
+AI_Medical_Chatbot.egg-info/dependency_links.txt
+AI_Medical_Chatbot.egg-info/top_level.txt
 ai_medical_chatbot.egg-info/PKG-INFO
 ai_medical_chatbot.egg-info/SOURCES.txt
 ai_medical_chatbot.egg-info/dependency_links.txt
