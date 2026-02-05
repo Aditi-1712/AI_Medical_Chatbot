@@ -7,6 +7,7 @@ venv/
 __pycache__/
 *.pyc
 
-# OS
+# OS files
 .DS_Store
+
 
